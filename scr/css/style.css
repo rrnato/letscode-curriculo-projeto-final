@@ -247,7 +247,7 @@ img {
   margin-right: 0.25rem;
 }
 
-/*========== SOCIAL ==========*/
+/*------- SOCIAL ------*/
 .social__container {
   grid-template-columns: max-content;
   gap: 1rem;
@@ -266,7 +266,7 @@ img {
   margin-right: 0.25rem;
 }
 
-/*========== PROFILE ==========*/
+/*------ PROFILE ------*/
 .profile__description {
   text-align: justify;
   text-indent: 1.5rem;
