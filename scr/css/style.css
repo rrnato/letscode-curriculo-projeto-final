@@ -273,7 +273,7 @@ img {
   font-size: var(--small-font-size);
   color: var(--text-color);
 
-  &:hover {
+  &:hover { 
     color: var(--title-color);
   }
 }
@@ -512,15 +512,3 @@ img {
     column-gap: 3.5rem;
   }
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
